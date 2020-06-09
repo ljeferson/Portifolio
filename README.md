@@ -5,7 +5,7 @@
 </p>
 
 # Portifolio
-Este repositório é utilizado para organizar e mostrar os principais projetos, pesquisas, estudos de casos e tutoriais que criei com o intuito de aprender novas habilidades, treinar habilidades existentes, compartilhar informações com todos que quiserem aprender e aprender com quem quiser contribuir(pois eu também sou um eterno aprendiz rsrsrs).
+Este repositório é utilizado para organizar e mostrar os principais projetos, pesquisas, estudos de casos e tutoriais que criei com o intuito de aprender novas habilidades, treinar habilidades existentes, compartilhar informações com todos que precisarem de uma ajuda e aprender com quem quiser contribuir(pois eu também sou um eterno aprendiz rsrsrs).
 
 # Lucas Jeferson
 <sub>*Estudante de Data Science* | *Mestre e Eng. de Computação e Sistemas* | *Eng. de Computação*</sub>
@@ -14,7 +14,7 @@ Sou Engenheiro de Computação e Mestre em Engenharia de Computação e Sistemas
 
 Atualmente trabalho com Analista Telecomunicações na Equatorial Telecomunicações, onde atualmente continuo estudando tecnologias de infraestrutura, desenvolvimento em Python e tecnologias DevOps, aplicando em projetos paralelos de geração de relatórios, onde, além de outras atividades, contribuo realizando o tratamento, organização e apresentação dos dados extraídos no Zabbix em forma de relatórios, visando automatizar tarefas repetitivas que antes demandavam muitas horas e até dias para serem realizadas. 
 
-O projeto mais significante que participei foi em um sistema de gerenciamento de rede WI-FI, o Tiúba Wi-Fi Manager, desenvolvido como produto do meu mestrado profissional, que me rendeu um pedido de patente e uma registro de software. Além disso participei como Analista Sysadmin em um projeto de de parceria entre a UEMA e o IMESC MA (onde comecei a aprender sobre DevOps e suas tecnologias). 
+O projeto mais significante que participei foi em um sistema de gerenciamento de rede WI-FI, o Tiúba Wi-Fi Manager, desenvolvido como produto do meu mestrado profissional, que me rendeu um pedido de patente e uma registro de software. Além disso participei como Analista Sysadmin em um projeto de parceria entre a UEMA e o IMESC MA (onde comecei a aprender sobre DevOps e suas tecnologias). 
 
 Após pouco mais de 4 anos de experiência com python, me coloquei como nova meta o aprofundamento no mundo de Data Science, buscando absorver melhor os estudos realizados por meio da prática e documentação dos projetos realizados. Por incentivo do Carlos Melo do [Blog Sigmoidal](https://sigmoidal.ai/blog/), estarei colocando aqui meus projetos desenvolvidos, com o intuito de contribuir com a comunidade de Data Science brasileira, em especial do Maranhão, e fortalecer ainda mais a difusão de conteúdo de qualidade que possa vir a ajudar muita gente interessada em embarcar nessa.
 
